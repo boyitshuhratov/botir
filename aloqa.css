@@ -1,0 +1,13 @@
+  
+  
+  .box {
+    width: 60px;
+    height: 70px;
+    background-color: blue;
+}
+.box:hover {
+   background-color: chartreuse;
+   transition: 2s;
+   border: 5px solid yellow;
+   border-radius: 20px;
+}
